@@ -1,6 +1,6 @@
 # Generative_Adversarial_Networks
 
-This is an example of using DCGAN to generate anime faces
+DGCAN_anime_generate.ipynb is an example of using DCGAN to generate anime faces
 
 
 Some screenshots of the network visualization training below
